@@ -11,7 +11,7 @@ To set up your own portfolio website using this code:
 
 1. **Clone this repository to your local machine**.
    ```bash
-   git clone https://github.com/yourusername/Portofolio-Website.git
+   https://github.com/Mokyra18/Portofolio-Website.git
    ```
    
 2. Open the index.html file in your favorite code editor.
